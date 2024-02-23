@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 4rem;
+  color: white;
+}
+
+p .js {
+  color: yellow;
+}
+
+p .cursor {
+  background-color: green;
+}
+
+p .auto-text {
+  color: green;
+}
